@@ -105,3 +105,4 @@ async def handler(event):
 print("🚕 Taxi bot ishga tushdi...")
 client.start()
 client.run_until_disconnected()
+ 
