@@ -8,8 +8,8 @@ client = TelegramClient('taxi_session', api_id, api_hash)
 
 # Kalit so'zlar
 keywords = [
-    'odam bor', 'rishtondan toshkentga odam bor', 'toshkentdan rishtonga odam bor',
-    'odam bor 1', 'rishtonga odam bor', 'toshkentga odam bor',
+    'odam bor', 'Odam bor', 'ODAM BOR', 'odam Bor', 'Odam bor 1ta', 'odam bor 1ta', 'odam bor 1Ta', 'odam bor 1 ta', 'odam bor 1 Ta', 'Odam bor 1 ta','rishtondan toshkentga odam bor', 'toshkentdan rishtonga odam bor',
+    'odam bor 1', 'odam bor 2', 'odam bor 3','rishtonga odam bor', 'toshkentga odam bor',
     'pochta bor', 'rishtonga pochta bor', 'rishtondan pochta bor',
     'toshkentga pochta bor', 'toshkentdan pochta bor',
     'ketadi', 'ketishadi', 'ketishi kerak', 'ketishi', 'ayol kishi ketadi'
